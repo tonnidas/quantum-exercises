@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://tonnidas.github.io/quantum-exercises/"  # Include trailing slash
 title = "Quantum Computing"
 theme = "hugo-swift-theme"
 author = "Tonni Das Jui"
