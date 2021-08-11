@@ -4,7 +4,7 @@ date = "2014-04-02"
 categories = [
     "exercises"
 ]
-image = "fast-lane.jpg"
+image = "q2.jpg"
 +++
 
 <!-- [okay](https://gowebexamples.com/templates/)  -->
