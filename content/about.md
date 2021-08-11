@@ -4,8 +4,4 @@ date = "2021-10-08"
 image = 'read.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* **Qiskit**: https://qiskit.org
+I created this website as fun project to store the important data and documents of Quantum Computing courses such as solutions to the problems that I have solved during this course and mini project that I have done.
