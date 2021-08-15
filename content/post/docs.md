@@ -9,7 +9,7 @@ image = "q1.jpg"
 
 <!-- [okay](https://gowebexamples.com/templates/)  -->
 
-## Instructor's Lecture Documents 
+## **Instructor's Lecture Documents** 
 * ### **Lecture Slides** 
     * 01 [Basic concepts on Quantum Computing](/Lecture/Chap1_1a.pdf) 
     * 02 [Classical Concepts](/Lecture/Chap1_2a.pdf)
@@ -27,3 +27,7 @@ image = "q1.jpg"
     * 01 [Introduction](https://colab.research.google.com/drive/1ovCVmPQRxZlD62ct9Fc8-otiF7siKVbw)
     * 02 [Bernstein-Vazirani Algorithm](https://colab.research.google.com/drive/196Uao6kU8ALZNFRbCoQGkwUlXeEvCCxz)
     * 03 [Quantum Phase Estimation](https://colab.research.google.com/drive/1UZn7wUeue3M8s5-Ky9ErptCY-FnMlgl7)
+
+* ### **Notes**
+    * 01 [note1](/Lecture/b.pdf)
+    * 01 [note2](/Lecture/bloch.pdf)
